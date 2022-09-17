@@ -1,9 +1,0 @@
-D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\netcoreapp3.1\AerolineaServicios.Rabbitmq.deps.json
-D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\netcoreapp3.1\AerolineaServicios.Rabbitmq.dll
-D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\netcoreapp3.1\AerolineaServicios.Rabbitmq.pdb
-D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\netcoreapp3.1\AerolineaServicios.Rabbitmq.GeneratedMSBuildEditorConfig.editorconfig
-D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\netcoreapp3.1\AerolineaServicios.Rabbitmq.AssemblyInfoInputs.cache
-D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\netcoreapp3.1\AerolineaServicios.Rabbitmq.AssemblyInfo.cs
-D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\netcoreapp3.1\AerolineaServicios.Rabbitmq.csproj.CoreCompileInputs.cache
-D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\netcoreapp3.1\AerolineaServicios.Rabbitmq.dll
-D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\netcoreapp3.1\AerolineaServicios.Rabbitmq.pdb
