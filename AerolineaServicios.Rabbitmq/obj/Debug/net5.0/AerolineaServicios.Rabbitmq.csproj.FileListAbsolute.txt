@@ -1,0 +1,47 @@
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.deps.json
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.dll
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\ref\AerolineaServicios.Rabbitmq.dll
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.pdb
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.GeneratedMSBuildEditorConfig.editorconfig
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.AssemblyInfoInputs.cache
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.AssemblyInfo.cs
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.csproj.CoreCompileInputs.cache
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.dll
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\ref\AerolineaServicios.Rabbitmq.dll
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.pdb
+D:\ddd\PROYECTO\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.csproj.AssemblyReference.cache
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.deps.json
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.dll
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\ref\AerolineaServicios.Rabbitmq.dll
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.pdb
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.AssemblyInfoInputs.cache
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.AssemblyInfo.cs
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.csproj.CoreCompileInputs.cache
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.dll
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\ref\AerolineaServicios.Rabbitmq.dll
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.pdb
+D:\API\Proyectos\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.csproj.AssemblyReference.cache
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.deps.json
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.dll
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\ref\AerolineaServicios.Rabbitmq.dll
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.pdb
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.GeneratedMSBuildEditorConfig.editorconfig
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.AssemblyInfoInputs.cache
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.AssemblyInfo.cs
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.csproj.CoreCompileInputs.cache
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.dll
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\ref\AerolineaServicios.Rabbitmq.dll
+D:\ms-vuelos-uFC\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.pdb
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.deps.json
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.dll
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\ref\AerolineaServicios.Rabbitmq.dll
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\bin\Debug\net5.0\AerolineaServicios.Rabbitmq.pdb
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.csproj.AssemblyReference.cache
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.AssemblyInfoInputs.cache
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.AssemblyInfo.cs
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.dll
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\ref\AerolineaServicios.Rabbitmq.dll
+D:\Nueva carpeta\ms-Vuelo-modulo6\AerolineaServicios.Rabbitmq\obj\Debug\net5.0\AerolineaServicios.Rabbitmq.pdb
