@@ -62,7 +62,7 @@ namespace AerolineaServicios.Api.Aeropuertos.Aplicacion
 
                 var valor = await _contexto.SaveChangesAsync();
 
-                _eventBus.Publish(new AeropuertoCreadoQueue(aeropuerto.IdAeropuerto,aeropuerto.NombreAeropuerto, aeropuerto.OACI, aeropuerto.IATA , aeropuerto.Localidad, aeropuerto.EstadoAeropuerto)); ///"rcerruto@bancosol.com.bo", request.TripulacionNombre, "Se creo la tripulacion"));
+                _eventBus.Publish(new AeropuertoCreadoQueue(aeropuerto.IdAeropuerto,aeropuerto.NombreAeropuerto, aeropuerto.OACI, aeropuerto.IATA , aeropuerto.Localidad, aeropuerto.EstadoAeropuerto)); ///"", request.TripulacionNombre, "Se creo la tripulacion"));
 
                 if (valor > 0)
                 {
